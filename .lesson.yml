@@ -1,0 +1,8 @@
+---
+title: "Brussels Sprouts Recipe Blog with ActiveRecord"
+type: "challenge"
+description: "Querying and association practice in ActiveRecord."
+depends: "rock-paper-scissors"
+visibility: "assign"
+ignore:
+- "evening-exercise-ar-querying-associations.md"
